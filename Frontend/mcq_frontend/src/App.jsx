@@ -6,7 +6,7 @@ import AppRouter from "./router/AppRouter";
 function App() {
   return (
     <div className="">
-      new page
+     
       <MainLayout>
         <AppRouter />
       </MainLayout>
